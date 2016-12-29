@@ -2483,7 +2483,14 @@
                     "endOffset": 44990
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohan\\AndroidStudioProjects\\XYZ Reader\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Rohan\\AndroidStudioProjects\\XYZ Reader\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 52,
+                        "endOffset": 138
+                    }
                 }
             },
             {
@@ -7020,15 +7027,7 @@
                     "endOffset": 138656
                 },
                 "from": {
-                    "file": "C:\\Users\\Rohan\\AndroidStudioProjects\\XYZ Reader\\XYZReader\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 975,
-                        "endLine": 27,
-                        "endColumn": 12,
-                        "endOffset": 1099
-                    }
+                    "file": "C:\\Users\\Rohan\\AndroidStudioProjects\\XYZ Reader\\XYZReader\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
