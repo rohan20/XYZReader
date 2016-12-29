@@ -22,10 +22,10 @@
 
                 <ImageView
                     android:id="@+id/photo"
-                    android:scaleType="centerCrop"
-                    android:adjustViewBounds="false"
                     android:layout_width="match_parent"
-                    android:layout_height="@dimen/detail_photo_height" />
+                    android:layout_height="@dimen/detail_photo_height"
+                    android:adjustViewBounds="false"
+                    android:scaleType="centerCrop" />
 
                 <View
                     android:layout_width="match_parent"
@@ -104,10 +104,10 @@
         android:layout_gravity="bottom|end"
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_marginEnd="@dimen/fab_margin"
+        android:layout_marginRight="@dimen/fab_margin"
         android:background="@drawable/add_fab_background"
         android:contentDescription="@string/action_share"
         android:elevation="@dimen/fab_elevation"
-        android:src="@drawable/ic_share"
-        android:layout_marginRight="@dimen/fab_margin" />
+        android:src="@drawable/ic_share" />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
